@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FolderMenu.qml</file>
+        <file>FileItemDelegate.qml</file>
+        <file>MenuButton.qml</file>
+        <file>SkillsPage.qml</file>
+        <file>LanguagePage.qml</file>
+        <file>TranslationsViewPage.qml</file>
+        <file>GeneratedViewPage.qml</file>
+    </qresource>
+</RCC>
