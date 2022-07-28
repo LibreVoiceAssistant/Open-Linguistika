@@ -41,3 +41,7 @@ sudo make install
 
 - Save the json file
 - Restart OpenLinguistika
+
+### Demo / Tutorial
+
+https://youtu.be/s2EZyBHRXeA
