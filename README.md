@@ -1,4 +1,7 @@
-# Open Linguistika
+# DEPRECATED - Open Linguistika
+
+This tool is no longer maintained by OpenVoiceOS
+____________________
 
 Open Linguistika Tool allows Mycroft skills developers to easily add support for newer languages to their skill GUI user interface.
 
